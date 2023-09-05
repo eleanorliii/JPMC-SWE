@@ -1,2 +1,4 @@
-# JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+JPMC-SWE2
+implemented the Perspective open source code for data visualizaiton
+
+- fixed the broken typescript files in the repository to correct web application outputs
